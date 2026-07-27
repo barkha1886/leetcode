@@ -8,6 +8,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/barkha1886/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/barkha1886/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/barkha1886/leetcode/tree/master/0496-next-greater-element-i) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/barkha1886/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Linked List
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/barkha1886/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/barkha1886/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/barkha1886/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2390-removing-stars-from-a-string](https://github.com/barkha1886/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
