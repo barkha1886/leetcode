@@ -28,6 +28,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/barkha1886/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/barkha1886/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/barkha1886/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3019-number-of-changing-keys](https://github.com/barkha1886/leetcode/tree/master/3019-number-of-changing-keys) |
 ## Stack
 |  |
 | ------- |
