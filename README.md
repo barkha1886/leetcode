@@ -43,6 +43,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/barkha1886/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/barkha1886/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/barkha1886/leetcode/tree/master/0682-baseball-game) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/barkha1886/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/barkha1886/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/barkha1886/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Simulation
@@ -81,4 +82,12 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/barkha1886/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/barkha1886/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/barkha1886/leetcode/tree/master/2652-sum-multiples) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/barkha1886/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/barkha1886/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
