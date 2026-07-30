@@ -28,6 +28,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/barkha1886/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/barkha1886/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/barkha1886/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/barkha1886/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/barkha1886/leetcode/tree/master/3019-number-of-changing-keys) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/barkha1886/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
@@ -83,6 +84,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/barkha1886/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/barkha1886/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/barkha1886/leetcode/tree/master/2652-sum-multiples) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/barkha1886/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/barkha1886/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/barkha1886/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
