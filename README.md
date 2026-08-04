@@ -10,6 +10,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/barkha1886/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/barkha1886/leetcode/tree/master/0496-next-greater-element-i) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/barkha1886/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3731-find-missing-elements](https://github.com/barkha1886/leetcode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/barkha1886/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/barkha1886/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/barkha1886/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3731-find-missing-elements](https://github.com/barkha1886/leetcode/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/barkha1886/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/barkha1886/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/barkha1886/leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
