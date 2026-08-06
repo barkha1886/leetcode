@@ -58,6 +58,7 @@
 | [0682-baseball-game](https://github.com/barkha1886/leetcode/tree/master/0682-baseball-game) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/barkha1886/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/barkha1886/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/barkha1886/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/barkha1886/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/barkha1886/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3731-find-missing-elements](https://github.com/barkha1886/leetcode/tree/master/3731-find-missing-elements) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/barkha1886/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/barkha1886/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Monotonic Stack
 |  |
 | ------- |
