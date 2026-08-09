@@ -35,6 +35,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/barkha1886/leetcode/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/barkha1886/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/barkha1886/leetcode/tree/master/0412-fizz-buzz) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/barkha1886/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/barkha1886/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/barkha1886/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -67,6 +68,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/barkha1886/leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/barkha1886/leetcode/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/barkha1886/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
@@ -99,6 +101,7 @@
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/barkha1886/leetcode/tree/master/0412-fizz-buzz) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/barkha1886/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/barkha1886/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/barkha1886/leetcode/tree/master/2652-sum-multiples) |
