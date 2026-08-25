@@ -12,6 +12,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/barkha1886/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/barkha1886/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/barkha1886/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/barkha1886/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/barkha1886/leetcode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -69,6 +70,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/barkha1886/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/barkha1886/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/barkha1886/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/barkha1886/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/barkha1886/leetcode/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
