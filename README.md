@@ -43,6 +43,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/barkha1886/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/barkha1886/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/barkha1886/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/barkha1886/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/barkha1886/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/barkha1886/leetcode/tree/master/3019-number-of-changing-keys) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/barkha1886/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/barkha1886/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/barkha1886/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/barkha1886/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/barkha1886/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
